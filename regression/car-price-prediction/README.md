@@ -144,7 +144,7 @@ car-price-prediction/
 ├── dataset/
 │   └── Car_Price_Prediction.csv
 │
-├── car_price_prediction.ipynb
+├── car-price-prediction.ipynb
 ├── requirements.txt
 └── README.md
 ```

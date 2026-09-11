@@ -142,7 +142,7 @@ jupyter notebook
 Then open:
 
 ```text
-customer_spending_prediction.ipynb
+customer-spending-prediction.ipynb
 ```
 
 Run the cells in order.
@@ -155,7 +155,7 @@ customer-spending-prediction/
 ├── dataset/
 │   └── Ecommerce Customers.csv
 │
-├── customer_spending_prediction.ipynb
+├── customer-spending-prediction.ipynb
 ├── requirements.txt
 └── README.md
 ```
