@@ -12,52 +12,26 @@ This repository is mainly focused on hands-on practice. Each project applies a s
 
 A regression project that predicts car prices using Lasso Regression.
 
-**Concepts practiced:**
-
-- Train-Test Split
-- Feature Selection
-- One-Hot Encoding
-- Lasso Regression
-- Model Training
-- Predictions
-- Model Evaluation
-- Mean Squared Error
-
-**Tools:**
-
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Jupyter Notebook
-
 #### Customer Spending Prediction
 
 A regression project that predicts customer yearly spending using Lasso Regression.
 
-**Concepts practiced:**
 
-- Train-Test Split
-- Feature Selection
-- Lasso Regression
-- Model Training
-- Predictions
-- Model Evaluation
-- Mean Squared Error
+### Classification
 
-**Tools:**
+#### Email Spam Classification
 
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Jupyter Notebook
+A classification project that predicts whether an email is Spam or Not Spam using Multinomial Naive Bayes.
+
+#### Gender Prediction
+
+A classification project that predicts gender using Random Forest Classifier.
+
 
 ## Upcoming Topics
 
 As I progress through Machine Learning, more projects will be added covering topics such as:
 
-- Classification
 - Clustering
 - Data Preprocessing
 - Feature Engineering
@@ -65,33 +39,6 @@ As I progress through Machine Learning, more projects will be added covering top
 - Pipelines
 - And other core Machine Learning concepts
 
-## Repository Structure
-
-```text
-machine-learning-lab/
-│
-├── regression/
-│   ├── car-price-prediction/
-│   │   ├── dataset/
-│   │   ├── car_price_prediction.ipynb
-│   │   ├── requirements.txt
-│   │   └── README.md
-│   │
-│   └── customer-spending-prediction/
-│       ├── dataset/
-│       ├── customer_spending_prediction.ipynb
-│       ├── requirements.txt
-│       └── README.md
-│
-├── classification/
-│   └── ...
-│
-├── clustering/
-│   └── ...
-│
-├── README.md
-└── .gitignore
-```
 
 ## Purpose
 
@@ -101,10 +48,11 @@ The projects are intentionally kept relatively small because they are part of th
 
 Larger and more complete Machine Learning projects will be maintained in separate repositories.
 
+
 ## Current Progress
 
 - [x] Regression
-- [ ] Classification
+- [x] Classification
 - [ ] Clustering
 - [ ] Data Preprocessing
 - [ ] Feature Engineering
