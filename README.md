@@ -28,17 +28,11 @@ A classification project that predicts whether an email is Spam or Not Spam usin
 
 A classification project that predicts gender using Random Forest Classifier.
 
+### Clustering
 
-## Upcoming Topics
+#### Countries Clustering
 
-As I progress through Machine Learning, more projects will be added covering topics such as:
-
-- Clustering
-- Data Preprocessing
-- Feature Engineering
-- Model Evaluation
-- Pipelines
-- And other core Machine Learning concepts
+an Unsupervised Learning project that uses K-Means Clustering to group countries based on economic, health, and demographic indicators.
 
 
 ## Purpose
@@ -54,9 +48,9 @@ Larger and more complete Machine Learning projects will be maintained in separat
 
 - [x] Regression
 - [x] Classification
-- [ ] Clustering
-- [ ] Data Preprocessing
-- [ ] Feature Engineering
+- [x] Clustering
+- [x] Data Preprocessing
+- [x] Feature Engineering
 - [ ] Pipelines
 - [ ] Advanced Model Evaluation
 
